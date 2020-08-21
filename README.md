@@ -13,9 +13,6 @@ Hey there human, my name is Arjun Mahishi. I am currently an SDE-2 @ Exotel. I h
 
 I juggle my free time between creating content for 2 of my youtube channels: [Rabbit hole journey](https://www.youtube.com/channel/UCr1ZnTuLNaB6VGeb7W0Eb1g) (developer vlog) and [another channel](https://www.youtube.com/c/ArjunMahishi) where I upload cover songs. Do subscribe to them if you are interested.
 
-Apart from tech, I run a [youtube channel](https://www.youtube.com/c/ArjunMahishi) where I put up instrumental music covers. Do check it out.
-
-
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=arjunmahishi&show_icons=true&theme=dracula)
