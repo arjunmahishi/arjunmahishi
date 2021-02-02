@@ -9,7 +9,7 @@
 
 ### About
 
-Hey there human, my name is Arjun Mahishi. I am currently an SDE-2 @ Exotel. I help build/improve the core voice backend services. I work mostly in Golang. Apart from work, I try contributing to open-source projects on my free time. I am one of the maintainers of a project called [Gocron](https://github.com/go-co-op/gocron). I love putting togather random hacks that automate things. Do check out some of my pinned repos to see if you find something useful. 
+Hey there human, my name is Arjun Mahishi. I am currently a Product Engineer at Clarisights. I try contributing to open-source projects on my free time. I am one of the maintainers of a project called [Gocron](https://github.com/go-co-op/gocron). I love putting togather random hacks that automate things. Do check out some of my pinned repos to see if you find something useful. 
 
 I juggle my free time between creating content for 2 of my youtube channels: [Rabbit hole journey](https://www.youtube.com/channel/UCr1ZnTuLNaB6VGeb7W0Eb1g) (developer vlog) and [arjunmahishi.mp3](https://www.youtube.com/c/ArjunMahishi) where I upload cover songs. Do subscribe to them if you are interested.
 
