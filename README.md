@@ -4,19 +4,8 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/arjun-mahishi-b18968126/)
 [![Insta Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)](https://www.instagram.com/arjunmahishi/)
 [![Medium Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=050404&logo=medium&logoColor=ffffff)](https://medium.com/@arjunmahishi)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### About
-
-Hey there human, my name is Arjun Mahishi. I am currently a Product Engineer at Clarisights. I try contributing to open-source projects on my free time. I am one of the maintainers of a project called [Gocron](https://github.com/go-co-op/gocron). I love putting togather random hacks that automate things. Do check out some of my pinned repos to see if you find something useful. 
-
-I juggle my free time between creating content for 2 of my youtube channels: [Rabbit hole journey](https://www.youtube.com/channel/UCr1ZnTuLNaB6VGeb7W0Eb1g) (developer vlog) and [arjunmahishi.mp3](https://www.youtube.com/c/ArjunMahishi) where I upload cover songs. Do subscribe to them if you are interested.
+![](https://komarev.com/ghpvc/?username=arjunmahishi)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=arjunmahishi&show_icons=true&theme=dracula)
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-![](https://komarev.com/ghpvc/?username=arjunmahishi)
