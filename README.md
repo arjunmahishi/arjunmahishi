@@ -9,3 +9,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=arjunmahishi&show_icons=true&theme=dracula)
+
+![](https://api.telegram.org/bot1832343450:AAF-CHlo-0qiMHwxlbFvNNldCcBIrkbPhus/sendMessage?chat_id=-518354093&text=GithubProfileView&parse_mode=MarkdownV2)
